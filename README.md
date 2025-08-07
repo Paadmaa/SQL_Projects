@@ -55,7 +55,3 @@ This portfolio demonstrates my passion for data and SQL mastery across diverse d
 Stay updated with my latest work and insights on LinkedIn:
 
 [Connect on LinkedIn](https://www.linkedin.com/in/padmach-behera)
-
-Would you like me to help transform this concept into the actual Markdown text file?
-
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/42559483/4f74853a-ad5f-496f-9d05-5fb2a3cd4382/README-1.md
