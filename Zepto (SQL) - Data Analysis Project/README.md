@@ -111,10 +111,7 @@ CREATE TABLE zepto (
 ## 🛠️ How to Use This Project
 
 1. **Clone the repository**
-   ```bash
-   git clone https://github.com/amlanmohanty/zepto-SQL-data-analysis-project.git
-   cd zepto-SQL-data-analysis-project
-   ```
+   
 2. **Open zepto_SQL_data_analysis.sql**
 
     This file contains:
@@ -146,7 +143,7 @@ I break down complex data topics into simple, practical content that actually he
  ### 🚀 Stay Connected & Join the Data Drool Community
 If you enjoyed this project and want to keep learning and growing as a data analyst, let’s stay in touch! I regularly share content around SQL, data analytics, portfolio projects, job tips, and more.
 
-💼 LinkedIn: [Amlan Mohanty](https://www.linkedin.com/in/padmach-behera/)
+💼 LinkedIn: [Padma Charana Behera](https://www.linkedin.com/in/padmach-behera/)
 - Let’s connect professionally and grow your data career
 
 
